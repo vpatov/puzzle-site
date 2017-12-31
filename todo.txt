@@ -1,0 +1,8 @@
+0) Make a repo
+0) Backup your gitlab repos on 533, and figure out why you got so many points off for that hw! the tour works!!! you also had a readme!!!
+1) Create a skeleton of a Flask app using an existing template, run it on localhost, don't bother setting up the rest of the infrastructure
+2) Work on one of the problems. Dont bother much with the description, or the story, focus on the problem code and implementation.
+3) Create a rough plan of the site, including problem structure, site motivation, answer structure, achivement system, magntiude of volume of problems, etc.
+4) Some of the problems should include working with existing binaries - for example, a toy program will be provided that communicates on a localhost socket and expects a specific protocol. The user program will interact with this provided program, and upon correct behavior, the provided program should either provide completion confirmation, or some kind of a passkey that can be submitted as confirmation. The passkeys/binaries should be unique per user (if possible), and the website should follow the projecteuler spirit
+5) Read some from the data science book (unlikely to happen)
+6) Wash some dishes
